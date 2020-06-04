@@ -1,0 +1,34 @@
+.main-nav{
+    float: right;
+    
+}
+.main-nav li{
+    display: inline;
+    /* padding-left:10px ;
+    padding-right: 10px; */
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#circle{
+    height: 40px;
+    width: 40px;
+    background-color: blueviolet;
+    border-radius: 50%;
+    /* display: inline */
+    float: right;
+    margin-top: -10px;
+}
+.main-nav a{
+    position: relative;
+
+}
+.text{
+    height: 100%;
+    color: white;
+    position: relative;
+    padding: 5px 0px 0px 0px;
+    text-align: center;
+    line-height: 1px;
+
+
+}
